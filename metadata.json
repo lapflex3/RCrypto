@@ -1,0 +1,6 @@
+{
+  "name": "RCrypto",
+  "description": "RCrypto cryptocurrency e-wallet, exchanger and trading platform with real-time analytics, secure multi-signature authentication, AI market insights, automated risk assessment, and customized AI trading bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
